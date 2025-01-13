@@ -1,4 +1,8 @@
-## Known Issues<br>
+
+![Screenshot 2024-10-03 115314 (1)](https://github.com/user-attachments/assets/9c6ef364-3e48-4b2a-afbc-b190a761a81e)<br>
+
+## Known issues
+
 1. In rare instances, the player ship may gain enough speed to cause tunneling and pass beyond the game screen boundaries instead of bouncing off them. If this occurs, the user must manually restart the application.<br>
 
 ======================================================
