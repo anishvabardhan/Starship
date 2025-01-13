@@ -2,7 +2,6 @@
 1. In rare instances, the player ship may gain enough speed to cause tunneling and pass beyond the game screen boundaries instead of bouncing off them. If this occurs, the user must manually restart the application.<br>
 
 
-
 ======================================================
 
 ## How to use<br>
