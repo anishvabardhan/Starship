@@ -1,11 +1,7 @@
 
 ![Screenshot 2024-10-03 115314 (1)](https://github.com/user-attachments/assets/9c6ef364-3e48-4b2a-afbc-b190a761a81e)<br>
 
-## Known issues
-
-1. In rare instances, the player ship may gain enough speed to cause tunneling and pass beyond the game screen boundaries instead of bouncing off them. If this occurs, the user must manually restart the application.<br>
-
-======================================================
+Starship is a 2D top down asteroids clone. I love star wars and that was my inspiration for this clone. It is a simple wave based shooter. I really enjoyed working on creating star wars themed effects, player ship and enemies.
 
 ## How to use<br>
 #### *THE KEYBOARD CONTROLS:-*<br>
@@ -37,3 +33,10 @@ Method 2(for advanced users):-
 	NOTE:- 	
 		* Visual Studio 2022 must be installed on the system.
 		* In step 5 mentioned above, if you want you can execute the program with the debugger too.
+  
+## Known issues
+
+1. In rare instances, the player ship may gain enough speed to cause tunneling and pass beyond the game screen boundaries instead of bouncing off them. If this occurs, the user must manually restart the application.<br>
+
+======================================================
+
